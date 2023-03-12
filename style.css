@@ -1,0 +1,19 @@
+.container{
+    border: 50px solid white;
+   
+}
+.ab{
+    border-top: 1px solid lightgrey ;
+    padding-top: 5px;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 5px;
+    border-left: 1px solid lightgray;
+    padding-left: 5px;
+    border-right: 1px solid lightgrey;
+    padding-right: 5px;
+    
+    margin: 30px 30px;
+}
+
+
+

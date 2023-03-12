@@ -1,0 +1,43 @@
+header{
+    background-color: rgb(31, 30, 30);
+    height: 90px;
+}
+ header a{
+    color: white;
+    margin-left: 50px;
+    
+
+}
+.a{
+    float: right;
+}
+#jk li{
+    display: inline;
+    margin-right: 10px;
+}
+.abv{
+    background-color: darkcyan;
+    height: 300px ;
+    width: 100%;
+    
+    
+}
+.bn{
+    margin: 20%;
+}
+.hm{
+    font: 100;
+
+}
+.fn{
+    margin: 20%
+}
+.mn{
+    margin: 20%;
+}
+.lm{
+    background-color: rgb(31, 30, 30);
+    color: white;
+    height: 150px;
+}
+
